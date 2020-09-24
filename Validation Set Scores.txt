@@ -1,0 +1,24 @@
+Scores computed on the validation sets with the provided evaluation script:
+
+Voting (XLMR + Contras Maps)
+...
+
+XLMR alone
+
+zh
+      	SYN:  P = 0.862  R = 0.822  F1 = 0.841  sup = 129
+      	HYP:  P = 0.938  R = 0.841  F1 = 0.887  sup = 145
+      	ANT:  P = 0.877  R = 0.838  F1 = 0.857  sup = 136
+	Overall:  P = 0.894  R = 0.834  F1 = 0.863
+en
+ 	SYN:  P = 0.492  R = 0.463  F1 = 0.477  sup = 259
+      	HYP:  P = 0.597  R = 0.473  F1 = 0.528  sup = 292
+      	ANT:  P = 0.801  R = 0.497  F1 = 0.613  sup = 308
+	Overall:  P = 0.639  R = 0.478  F1 = 0.543
+de
+      	SYN:  P = 0.507  R = 0.419  F1 = 0.459  sup = 272
+      	HYP:  P = 0.595  R = 0.459  F1 = 0.518  sup = 294
+      	ANT:  P = 0.673  R = 0.411  F1 = 0.510  sup = 275
+	Overall:  P = 0.592  R = 0.430  F1 = 0.496
+
+
