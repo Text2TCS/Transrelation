@@ -1,6 +1,6 @@
 # Text2TCS CogALex VI submission
 
-This is a description of our system submitted to the CogaLex VI shared task (https://sites.google.com/site/cogalexvisharedtask/).
+This is a description of our system submitted to the CogaLex VI shared task (https://sites.google.com/site/cogalexvisharedtask/). We use a single multilingual model in order to annotate the four different test sets. 
 
 The labeled test sets can be found in the folder “annotated test sets”.
 
