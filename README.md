@@ -1,6 +1,6 @@
 # Text2TCS CogALex VI submission
 
-This is a description of our system submitted to the CogaLex VI shared task.
+This is a description of our system submitted to the CogaLex VI shared task (https://sites.google.com/site/cogalexvisharedtask/).
 
 The labeled test sets can be found in the folder “annotated test sets”.
 
