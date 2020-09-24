@@ -1,9 +1,6 @@
 Scores computed on the validation sets with the provided evaluation script:
 
-Voting (XLMR + Contras Maps)
-...
-
-XLMR alone
+Results with XLMR Model
 
 zh
       	SYN:  P = 0.862  R = 0.822  F1 = 0.841  sup = 129
