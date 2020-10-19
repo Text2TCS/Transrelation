@@ -1,4 +1,4 @@
-# Transrelation - CogALex VI submission
+# Transrelation - CogALex VI Submission
 
 This is a description of our system submitted to the CogaLex VI shared task (https://sites.google.com/site/cogalexvisharedtask/). We use a single multilingual model in order to annotate the four different test sets. 
 
