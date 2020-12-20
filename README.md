@@ -1,12 +1,10 @@
 # Transrelation - CogALex VI Submission
 
-This is a description of our system submitted to the CogaLex VI shared task. We use a single multilingual model in order to annotate the four different test sets. 
+This is a description of our system submitted to the CogaLex VI shared task. We use a single multilingual model in order to annotate the four different test sets. The labeled test sets can be found in the folder “annotated test sets”.
 
 Our full paper can be found here: https://www.aclweb.org/anthology/2020.cogalex-1.7/ [1]
 
 The task website is: https://sites.google.com/site/cogalexvisharedtask/
-
-The labeled test sets can be found in the folder “annotated test sets”.
 
 ### XLM-RoBERTa 
 
